@@ -9,6 +9,6 @@ hello NEU
 hello NEU
 hello NEU
 hello NEU
-hello NEU777777777777777777777777777  hot-fix test
-hello NEU888888888888888888888888
+hello NEU
+hello NEU hot-fix test
 hello NEU
